@@ -1,9 +1,13 @@
 Hello!
 Simple 2 microservices which can communicate between each other
 My project have:
+
 -Pydantic
+
 -Db:Sqlalchemy
+
 -Asyncio
+
 -Httpx
 
 1. Clone repository
